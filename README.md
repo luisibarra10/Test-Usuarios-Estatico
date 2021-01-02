@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Ejercicio 1 del test realizando vistas y tabla estatica.
 
-Preview:
+## Preview:
 
 ![Cat](https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview.PNG)
 
