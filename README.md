@@ -32,9 +32,9 @@ Ejercicio 1 del test realizando vistas y tabla estatica.
 
 Preview:
 
-![Cat] (https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview.PNG)
+![Cat](https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview.PNG)
 
-![Cat] (https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview2.PNG)
+![Cat](https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview2.PNG)
 
-![Cat] (https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview3.PNG)
+![Cat](https://github.com/luisibarra10/Test-Usuarios-Estatico/blob/main/src/assets/img/preview3.PNG)
 
